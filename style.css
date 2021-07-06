@@ -1,8 +1,11 @@
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+}
+h3{
+    text-align: center;
 }
 h1{
-    font-weight: 700;
+    font-weight: bolder;
     color: gray;
 }
 p{
@@ -29,13 +32,21 @@ a{
     padding-top: 50px;
     font-weight: bolder;
     width: 40%;
-}
-#go-down{
-    padding-bottom: 50%;
-}
+           }
 .flexible-container{
     display: flex;
 }
 .photo-adjust{
     width: 70%;
+}
+#text-align-center{
+    text-align: center;
+}
+.section-ii{
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+#center{
+    text-align: center;
 }
