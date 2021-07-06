@@ -4,3 +4,19 @@ body{
 span{
     color: yellow;
 }
+a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 700;
+    background-image: linear-gradient(orange, salmon);
+}
+.padding-left-and-up{
+    padding-left: 60px;
+    padding-top: 50px;
+    font-weight: bolder;
+}
+#go-down{
+    padding-top: 100px;
+}
